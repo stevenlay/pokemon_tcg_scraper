@@ -1,0 +1,586 @@
+[
+  {
+    "name": "Yanma",
+    "set": "1/72",
+    "rarity": "Common",
+    "expansion": "Shining Fates",
+    "type": "grass",
+    "img": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH45/SWSH45_EN_1.png"
+  },
+  {
+    "name": "Yanmega",
+    "set": "2/72",
+    "rarity": "Rare",
+    "expansion": "Shining Fates",
+    "type": "grass",
+    "img": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH45/SWSH45_EN_2.png"
+  },
+  {
+    "name": "Celebi",
+    "set": "3/72",
+    "rarity": "Rare",
+    "expansion": "Shining Fates",
+    "type": "grass",
+    "img": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH45/SWSH45_EN_3.png"
+  },
+  {
+    "name": "Cacnea",
+    "set": "4/72",
+    "rarity": "Common",
+    "expansion": "Shining Fates",
+    "type": "grass",
+    "img": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH45/SWSH45_EN_4.png"
+  },
+  {
+    "name": "Tropius",
+    "set": "5/72",
+    "rarity": "Uncommon",
+    "expansion": "Shining Fates",
+    "type": "grass",
+    "img": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH45/SWSH45_EN_5.png"
+  },
+  {
+    "name": "Rowlet",
+    "set": "6/72",
+    "rarity": "Common",
+    "expansion": "Shining Fates",
+    "type": "grass",
+    "img": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH45/SWSH45_EN_6.png"
+  },
+  {
+    "name": "Dartrix",
+    "set": "7/72",
+    "rarity": "Uncommon",
+    "expansion": "Shining Fates",
+    "type": "grass",
+    "img": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH45/SWSH45_EN_7.png"
+  },
+  {
+    "name": "Decidueye",
+    "set": "8/72",
+    "rarity": "Rare Holo",
+    "expansion": "Shining Fates",
+    "type": "grass",
+    "img": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH45/SWSH45_EN_8.png"
+  },
+  {
+    "name": "Dhelmise V",
+    "set": "9/72",
+    "rarity": "V",
+    "expansion": "Shining Fates",
+    "type": "grass",
+    "img": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH45/SWSH45_EN_9.png"
+  },
+  {
+    "name": "Dhelmise VMAX",
+    "set": "10/72",
+    "rarity": "VM",
+    "expansion": "Shining Fates",
+    "type": "grass",
+    "img": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH45/SWSH45_EN_10.png"
+  },
+  {
+    "name": "Grookey",
+    "set": "11/72",
+    "rarity": "Common",
+    "expansion": "Shining Fates",
+    "type": "grass",
+    "img": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH45/SWSH45_EN_11.png"
+  },
+  {
+    "name": "Thwackey",
+    "set": "12/72",
+    "rarity": "Uncommon",
+    "expansion": "Shining Fates",
+    "type": "grass",
+    "img": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH45/SWSH45_EN_12.png"
+  },
+  {
+    "name": "Rillaboom",
+    "set": "13/72",
+    "rarity": "Rare Holo",
+    "expansion": "Shining Fates",
+    "type": "grass",
+    "img": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH45/SWSH45_EN_13.png"
+  },
+  {
+    "name": "Gossifleur",
+    "set": "14/72",
+    "rarity": "Common",
+    "expansion": "Shining Fates",
+    "type": "grass",
+    "img": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH45/SWSH45_EN_14.png"
+  },
+  {
+    "name": "Eldegoss",
+    "set": "15/72",
+    "rarity": "Uncommon",
+    "expansion": "Shining Fates",
+    "type": "grass",
+    "img": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH45/SWSH45_EN_15.png"
+  },
+  {
+    "name": "Zarude",
+    "set": "16/72",
+    "rarity": "Rare",
+    "expansion": "Shining Fates",
+    "type": "grass",
+    "img": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH45/SWSH45_EN_16.png"
+  },
+  {
+    "name": "Reshiram",
+    "set": "17/72",
+    "rarity": "Amazing",
+    "expansion": "Shining Fates",
+    "type": "fire",
+    "img": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH45/SWSH45_EN_17.png"
+  },
+  {
+    "name": "Cinderace V",
+    "set": "18/72",
+    "rarity": "V",
+    "expansion": "Shining Fates",
+    "type": "fire",
+    "img": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH45/SWSH45_EN_18.png"
+  },
+  {
+    "name": "Cinderace VMAX",
+    "set": "19/72",
+    "rarity": "VM",
+    "expansion": "Shining Fates",
+    "type": "fire",
+    "img": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH45/SWSH45_EN_19.png"
+  },
+  {
+    "name": "Horsea",
+    "set": "20/72",
+    "rarity": "Common",
+    "expansion": "Shining Fates",
+    "type": "water",
+    "img": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH45/SWSH45_EN_20.png"
+  },
+  {
+    "name": "Kyogre",
+    "set": "21/72",
+    "rarity": "Amazing",
+    "expansion": "Shining Fates",
+    "type": "water",
+    "img": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH45/SWSH45_EN_21.png"
+  },
+  {
+    "name": "Buizel",
+    "set": "22/72",
+    "rarity": "Common",
+    "expansion": "Shining Fates",
+    "type": "water",
+    "img": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH45/SWSH45_EN_22.png"
+  },
+  {
+    "name": "Floatzel",
+    "set": "23/72",
+    "rarity": "Uncommon",
+    "expansion": "Shining Fates",
+    "type": "water",
+    "img": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH45/SWSH45_EN_23.png"
+  },
+  {
+    "name": "Manaphy",
+    "set": "24/72",
+    "rarity": "Rare",
+    "expansion": "Shining Fates",
+    "type": "water",
+    "img": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH45/SWSH45_EN_24.png"
+  },
+  {
+    "name": "Volcanion",
+    "set": "25/72",
+    "rarity": "Rare",
+    "expansion": "Shining Fates",
+    "type": "water",
+    "img": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH45/SWSH45_EN_25.png"
+  },
+  {
+    "name": "Chewtle",
+    "set": "26/72",
+    "rarity": "Common",
+    "expansion": "Shining Fates",
+    "type": "water",
+    "img": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH45/SWSH45_EN_26.png"
+  },
+  {
+    "name": "Drednaw",
+    "set": "27/72",
+    "rarity": "Rare",
+    "expansion": "Shining Fates",
+    "type": "water",
+    "img": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH45/SWSH45_EN_27.png"
+  },
+  {
+    "name": "Cramorant",
+    "set": "28/72",
+    "rarity": "Uncommon",
+    "expansion": "Shining Fates",
+    "type": "water",
+    "img": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH45/SWSH45_EN_28.png"
+  },
+  {
+    "name": "Snom",
+    "set": "29/72",
+    "rarity": "Common",
+    "expansion": "Shining Fates",
+    "type": "water",
+    "img": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH45/SWSH45_EN_29.png"
+  },
+  {
+    "name": "Frosmoth",
+    "set": "30/72",
+    "rarity": "Rare Holo",
+    "expansion": "Shining Fates",
+    "type": "water",
+    "img": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH45/SWSH45_EN_30.png"
+  },
+  {
+    "name": "Shinx",
+    "set": "31/72",
+    "rarity": "Common",
+    "expansion": "Shining Fates",
+    "type": "lightning",
+    "img": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH45/SWSH45_EN_31.png"
+  },
+  {
+    "name": "Luxio",
+    "set": "32/72",
+    "rarity": "Uncommon",
+    "expansion": "Shining Fates",
+    "type": "lightning",
+    "img": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH45/SWSH45_EN_32.png"
+  },
+  {
+    "name": "Luxray",
+    "set": "33/72",
+    "rarity": "Rare Holo",
+    "expansion": "Shining Fates",
+    "type": "lightning",
+    "img": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH45/SWSH45_EN_33.png"
+  },
+  {
+    "name": "Rotom",
+    "set": "34/72",
+    "rarity": "Uncommon",
+    "expansion": "Shining Fates",
+    "type": "lightning",
+    "img": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH45/SWSH45_EN_34.png"
+  },
+  {
+    "name": "Morpeko",
+    "set": "35/72",
+    "rarity": "Common",
+    "expansion": "Shining Fates",
+    "type": "lightning",
+    "img": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH45/SWSH45_EN_35.png"
+  },
+  {
+    "name": "Morpeko",
+    "set": "36/72",
+    "rarity": "Common",
+    "expansion": "Shining Fates",
+    "type": "lightning",
+    "img": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH45/SWSH45_EN_36.png"
+  },
+  {
+    "name": "Morpeko V",
+    "set": "37/72",
+    "rarity": "V",
+    "expansion": "Shining Fates",
+    "type": "lightning",
+    "img": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH45/SWSH45_EN_37.png"
+  },
+  {
+    "name": "Morpeko VMAX",
+    "set": "38/72",
+    "rarity": "VM",
+    "expansion": "Shining Fates",
+    "type": "lightning",
+    "img": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH45/SWSH45_EN_38.png"
+  },
+  {
+    "name": "Indeedee V",
+    "set": "39/72",
+    "rarity": "V",
+    "expansion": "Shining Fates",
+    "type": "psychic",
+    "img": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH45/SWSH45_EN_39.png"
+  },
+  {
+    "name": "Trapinch",
+    "set": "40/72",
+    "rarity": "Common",
+    "expansion": "Shining Fates",
+    "type": "fighting",
+    "img": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH45/SWSH45_EN_40.png"
+  },
+  {
+    "name": "Koffing",
+    "set": "41/72",
+    "rarity": "Common",
+    "expansion": "Shining Fates",
+    "type": "darkness",
+    "img": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH45/SWSH45_EN_41.png"
+  },
+  {
+    "name": "Galarian Weezing",
+    "set": "42/72",
+    "rarity": "Rare Holo",
+    "expansion": "Shining Fates",
+    "type": "darkness",
+    "img": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH45/SWSH45_EN_42.png"
+  },
+  {
+    "name": "Spinarak",
+    "set": "43/72",
+    "rarity": "Common",
+    "expansion": "Shining Fates",
+    "type": "darkness",
+    "img": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH45/SWSH45_EN_43.png"
+  },
+  {
+    "name": "Crobat V",
+    "set": "44/72",
+    "rarity": "V",
+    "expansion": "Shining Fates",
+    "type": "darkness",
+    "img": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH45/SWSH45_EN_44.png"
+  },
+  {
+    "name": "Crobat VMAX",
+    "set": "45/72",
+    "rarity": "VM",
+    "expansion": "Shining Fates",
+    "type": "darkness",
+    "img": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH45/SWSH45_EN_45.png"
+  },
+  {
+    "name": "Yveltal",
+    "set": "46/72",
+    "rarity": "Amazing",
+    "expansion": "Shining Fates",
+    "type": "darkness",
+    "img": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH45/SWSH45_EN_46.png"
+  },
+  {
+    "name": "Nickit",
+    "set": "47/72",
+    "rarity": "Common",
+    "expansion": "Shining Fates",
+    "type": "darkness",
+    "img": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH45/SWSH45_EN_47.png"
+  },
+  {
+    "name": "\u200bThievul",
+    "set": "48/72",
+    "rarity": "Rare Holo",
+    "expansion": "Shining Fates",
+    "type": "darkness",
+    "img": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH45/SWSH45_EN_48.png"
+  },
+  {
+    "name": "Cufant",
+    "set": "49/72",
+    "rarity": "Common",
+    "expansion": "Shining Fates",
+    "type": "metal",
+    "img": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH45/SWSH45_EN_49.png"
+  },
+  {
+    "name": "Ditto V",
+    "set": "50/72",
+    "rarity": "V",
+    "expansion": "Shining Fates",
+    "type": "colorless",
+    "img": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH45/SWSH45_EN_50.png"
+  },
+  {
+    "name": "Ditto VMAX",
+    "set": "51/72",
+    "rarity": "VM",
+    "expansion": "Shining Fates",
+    "type": "colorless",
+    "img": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH45/SWSH45_EN_51.png"
+  },
+  {
+    "name": "Eevee",
+    "set": "52/72",
+    "rarity": "Common",
+    "expansion": "Shining Fates",
+    "type": "colorless",
+    "img": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH45/SWSH45_EN_52.png"
+  },
+  {
+    "name": "Greedent V",
+    "set": "53/72",
+    "rarity": "V",
+    "expansion": "Shining Fates",
+    "type": "colorless",
+    "img": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH45/SWSH45_EN_53.png"
+  },
+  {
+    "name": "Cramorant V",
+    "set": "54/72",
+    "rarity": "V",
+    "expansion": "Shining Fates",
+    "type": "colorless",
+    "img": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH45/SWSH45_EN_54.png"
+  },
+  {
+    "name": "Cramorant VMAX",
+    "set": "55/72",
+    "rarity": "VM",
+    "expansion": "Shining Fates",
+    "type": "colorless",
+    "img": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH45/SWSH45_EN_55.png"
+  },
+  {
+    "name": "Indeedee",
+    "set": "56/72",
+    "rarity": "Rare Holo",
+    "expansion": "Shining Fates",
+    "type": "colorless",
+    "img": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH45/SWSH45_EN_56.png"
+  },
+  {
+    "name": "Ball Guy",
+    "set": "57/72",
+    "rarity": "Uncommon",
+    "expansion": "Shining Fates",
+    "type": "Trainer - Supporter",
+    "img": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH45/SWSH45_EN_57.png"
+  },
+  {
+    "name": "Boss\u2019s Orders (Lysandre)",
+    "set": "58/72",
+    "rarity": "Rare",
+    "expansion": "Shining Fates",
+    "type": "Trainer - Supporter",
+    "img": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH45/SWSH45_EN_58.png"
+  },
+  {
+    "name": "Gym Trainer",
+    "set": "59/72",
+    "rarity": "Uncommon",
+    "expansion": "Shining Fates",
+    "type": "Trainer - Supporter",
+    "img": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH45/SWSH45_EN_59.png"
+  },
+  {
+    "name": "Professor\u2019s Research (Professor Juniper)",
+    "set": "60/72",
+    "rarity": "Rare",
+    "expansion": "Shining Fates",
+    "type": "Trainer - Supporter",
+    "img": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH45/SWSH45_EN_60.png"
+  },
+  {
+    "name": "Rusted Shield",
+    "set": "61/72",
+    "rarity": "Uncommon",
+    "expansion": "Shining Fates",
+    "type": "Trainer [Pok\u00e9mon Tool]",
+    "img": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH45/SWSH45_EN_61.png"
+  },
+  {
+    "name": "Rusted Sword",
+    "set": "62/72",
+    "rarity": "Uncommon",
+    "expansion": "Shining Fates",
+    "type": "Trainer [Pok\u00e9mon Tool]",
+    "img": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH45/SWSH45_EN_62.png"
+  },
+  {
+    "name": "Team Yell Towel",
+    "set": "63/72",
+    "rarity": "Uncommon",
+    "expansion": "Shining Fates",
+    "type": "Trainer - Item",
+    "img": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH45/SWSH45_EN_63.png"
+  },
+  {
+    "name": "Alcremie V",
+    "set": "64/72",
+    "rarity": "Rare Ultra",
+    "expansion": "Shining Fates",
+    "type": "psychic",
+    "img": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH45/SWSH45_EN_64.png"
+  },
+  {
+    "name": "Ball Guy",
+    "set": "65/72",
+    "rarity": "Rare Ultra",
+    "expansion": "Shining Fates",
+    "type": "Trainer - Supporter",
+    "img": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH45/SWSH45_EN_65.png"
+  },
+  {
+    "name": "Bird Keeper",
+    "set": "66/72",
+    "rarity": "Rare Ultra",
+    "expansion": "Shining Fates",
+    "type": "Trainer - Supporter",
+    "img": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH45/SWSH45_EN_66.png"
+  },
+  {
+    "name": "Cara Liss",
+    "set": "67/72",
+    "rarity": "Rare Ultra",
+    "expansion": "Shining Fates",
+    "type": "Trainer - Supporter",
+    "img": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH45/SWSH45_EN_67.png"
+  },
+  {
+    "name": "Gym Trainer",
+    "set": "68/72",
+    "rarity": "Rare Ultra",
+    "expansion": "Shining Fates",
+    "type": "Trainer - Supporter",
+    "img": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH45/SWSH45_EN_68.png"
+  },
+  {
+    "name": "Piers",
+    "set": "69/72",
+    "rarity": "Rare Ultra",
+    "expansion": "Shining Fates",
+    "type": "Trainer - Supporter",
+    "img": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH45/SWSH45_EN_69.png"
+  },
+  {
+    "name": "Pok\u00e9 Kid",
+    "set": "70/72",
+    "rarity": "Rare Ultra",
+    "expansion": "Shining Fates",
+    "type": "Trainer - Supporter",
+    "img": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH45/SWSH45_EN_70.png"
+  },
+  {
+    "name": "Rose",
+    "set": "71/72",
+    "rarity": "Rare Ultra",
+    "expansion": "Shining Fates",
+    "type": "Trainer - Supporter",
+    "img": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH45/SWSH45_EN_71.png"
+  },
+  {
+    "name": "Skyla",
+    "set": "72/72",
+    "rarity": "Rare Ultra",
+    "expansion": "Shining Fates",
+    "type": "Trainer - Supporter",
+    "img": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH45/SWSH45_EN_72.png"
+  },
+  {
+    "name": "Alcremie VMAX",
+    "set": "73/72",
+    "rarity": "Rainbow Rare",
+    "expansion": "Shining Fates",
+    "type": "psychic",
+    "img": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH45/SWSH45_EN_73.png"
+  }
+]

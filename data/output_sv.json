@@ -1,0 +1,978 @@
+[
+  {
+    "name": "Rowlet",
+    "set": "SV001",
+    "rarity": "Rare Ultra",
+    "expansion": "Shining Fates: Shiny Vault",
+    "type": "grass",
+    "img": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH45/SWSH45_EN_SV001.png"
+  },
+  {
+    "name": "Dartrix",
+    "set": "SV002",
+    "rarity": "Rare Ultra",
+    "expansion": "Shining Fates: Shiny Vault",
+    "type": "grass",
+    "img": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH45/SWSH45_EN_SV002.png"
+  },
+  {
+    "name": "Decidueye",
+    "set": "SV003",
+    "rarity": "Rare Ultra",
+    "expansion": "Shining Fates: Shiny Vault",
+    "type": "grass",
+    "img": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH45/SWSH45_EN_SV003.png"
+  },
+  {
+    "name": "Grookey",
+    "set": "SV004",
+    "rarity": "Rare Ultra",
+    "expansion": "Shining Fates: Shiny Vault",
+    "type": "grass",
+    "img": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH45/SWSH45_EN_SV004.png"
+  },
+  {
+    "name": "Thwackey",
+    "set": "SV005",
+    "rarity": "Rare Ultra",
+    "expansion": "Shining Fates: Shiny Vault",
+    "type": "grass",
+    "img": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH45/SWSH45_EN_SV005.png"
+  },
+  {
+    "name": "Rillaboom",
+    "set": "SV006",
+    "rarity": "Rare Ultra",
+    "expansion": "Shining Fates: Shiny Vault",
+    "type": "grass",
+    "img": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH45/SWSH45_EN_SV006.png"
+  },
+  {
+    "name": "Blipbug",
+    "set": "SV007",
+    "rarity": "Rare Ultra",
+    "expansion": "Shining Fates: Shiny Vault",
+    "type": "grass",
+    "img": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH45/SWSH45_EN_SV007.png"
+  },
+  {
+    "name": "Dottler",
+    "set": "SV008",
+    "rarity": "Rare Ultra",
+    "expansion": "Shining Fates: Shiny Vault",
+    "type": "grass",
+    "img": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH45/SWSH45_EN_SV008.png"
+  },
+  {
+    "name": "Orbeetle",
+    "set": "SV009",
+    "rarity": "Rare Ultra",
+    "expansion": "Shining Fates: Shiny Vault",
+    "type": "grass",
+    "img": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH45/SWSH45_EN_SV009.png"
+  },
+  {
+    "name": "Gossifleur",
+    "set": "SV010",
+    "rarity": "Rare Ultra",
+    "expansion": "Shining Fates: Shiny Vault",
+    "type": "grass",
+    "img": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH45/SWSH45_EN_SV010.png"
+  },
+  {
+    "name": "Eldegoss",
+    "set": "SV011",
+    "rarity": "Rare Ultra",
+    "expansion": "Shining Fates: Shiny Vault",
+    "type": "grass",
+    "img": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH45/SWSH45_EN_SV011.png"
+  },
+  {
+    "name": "Applin",
+    "set": "SV012",
+    "rarity": "Rare Ultra",
+    "expansion": "Shining Fates: Shiny Vault",
+    "type": "grass",
+    "img": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH45/SWSH45_EN_SV012.png"
+  },
+  {
+    "name": "Flapple",
+    "set": "SV013",
+    "rarity": "Rare Ultra",
+    "expansion": "Shining Fates: Shiny Vault",
+    "type": "grass",
+    "img": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH45/SWSH45_EN_SV013.png"
+  },
+  {
+    "name": "Appletun",
+    "set": "SV014",
+    "rarity": "Rare Ultra",
+    "expansion": "Shining Fates: Shiny Vault",
+    "type": "grass",
+    "img": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH45/SWSH45_EN_SV014.png"
+  },
+  {
+    "name": "Scorbunny",
+    "set": "SV015",
+    "rarity": "Rare Ultra",
+    "expansion": "Shining Fates: Shiny Vault",
+    "type": "fire",
+    "img": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH45/SWSH45_EN_SV015.png"
+  },
+  {
+    "name": "Raboot",
+    "set": "SV016",
+    "rarity": "Rare Ultra",
+    "expansion": "Shining Fates: Shiny Vault",
+    "type": "fire",
+    "img": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH45/SWSH45_EN_SV016.png"
+  },
+  {
+    "name": "Cinderace",
+    "set": "SV017",
+    "rarity": "Rare Ultra",
+    "expansion": "Shining Fates: Shiny Vault",
+    "type": "fire",
+    "img": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH45/SWSH45_EN_SV017.png"
+  },
+  {
+    "name": "Sizzlipede",
+    "set": "SV018",
+    "rarity": "Rare Ultra",
+    "expansion": "Shining Fates: Shiny Vault",
+    "type": "fire",
+    "img": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH45/SWSH45_EN_SV018.png"
+  },
+  {
+    "name": "Centiskorch",
+    "set": "SV019",
+    "rarity": "Rare Ultra",
+    "expansion": "Shining Fates: Shiny Vault",
+    "type": "fire",
+    "img": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH45/SWSH45_EN_SV019.png"
+  },
+  {
+    "name": "Galarian Mr. Mime",
+    "set": "SV020",
+    "rarity": "Rare Ultra",
+    "expansion": "Shining Fates: Shiny Vault",
+    "type": "water",
+    "img": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH45/SWSH45_EN_SV020.png"
+  },
+  {
+    "name": "Galarian Mr. Rime",
+    "set": "SV021",
+    "rarity": "Rare Ultra",
+    "expansion": "Shining Fates: Shiny Vault",
+    "type": "water",
+    "img": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH45/SWSH45_EN_SV021.png"
+  },
+  {
+    "name": "Suicune",
+    "set": "SV022",
+    "rarity": "Rare Ultra",
+    "expansion": "Shining Fates: Shiny Vault",
+    "type": "water",
+    "img": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH45/SWSH45_EN_SV022.png"
+  },
+  {
+    "name": "Galarian Darumaka",
+    "set": "SV023",
+    "rarity": "Rare Ultra",
+    "expansion": "Shining Fates: Shiny Vault",
+    "type": "water",
+    "img": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH45/SWSH45_EN_SV023.png"
+  },
+  {
+    "name": "Galarian Darmanitan",
+    "set": "SV024",
+    "rarity": "Rare Ultra",
+    "expansion": "Shining Fates: Shiny Vault",
+    "type": "water",
+    "img": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH45/SWSH45_EN_SV024.png"
+  },
+  {
+    "name": "Sobble",
+    "set": "SV025",
+    "rarity": "Rare Ultra",
+    "expansion": "Shining Fates: Shiny Vault",
+    "type": "water",
+    "img": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH45/SWSH45_EN_SV025.png"
+  },
+  {
+    "name": "Drizzile",
+    "set": "SV026",
+    "rarity": "Rare Ultra",
+    "expansion": "Shining Fates: Shiny Vault",
+    "type": "water",
+    "img": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH45/SWSH45_EN_SV026.png"
+  },
+  {
+    "name": "Inteleon",
+    "set": "SV027",
+    "rarity": "Rare Ultra",
+    "expansion": "Shining Fates: Shiny Vault",
+    "type": "water",
+    "img": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH45/SWSH45_EN_SV027.png"
+  },
+  {
+    "name": "Chewtle",
+    "set": "SV028",
+    "rarity": "Rare Ultra",
+    "expansion": "Shining Fates: Shiny Vault",
+    "type": "water",
+    "img": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH45/SWSH45_EN_SV028.png"
+  },
+  {
+    "name": "Drednaw",
+    "set": "SV029",
+    "rarity": "Rare Ultra",
+    "expansion": "Shining Fates: Shiny Vault",
+    "type": "water",
+    "img": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH45/SWSH45_EN_SV029.png"
+  },
+  {
+    "name": "Cramorant",
+    "set": "SV030",
+    "rarity": "Rare Ultra",
+    "expansion": "Shining Fates: Shiny Vault",
+    "type": "water",
+    "img": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH45/SWSH45_EN_SV030.png"
+  },
+  {
+    "name": "Arrokuda",
+    "set": "SV031",
+    "rarity": "Rare Ultra",
+    "expansion": "Shining Fates: Shiny Vault",
+    "type": "water",
+    "img": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH45/SWSH45_EN_SV031.png"
+  },
+  {
+    "name": "Barraskewda",
+    "set": "SV032",
+    "rarity": "Rare Ultra",
+    "expansion": "Shining Fates: Shiny Vault",
+    "type": "water",
+    "img": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH45/SWSH45_EN_SV032.png"
+  },
+  {
+    "name": "Snom",
+    "set": "SV033",
+    "rarity": "Rare Ultra",
+    "expansion": "Shining Fates: Shiny Vault",
+    "type": "water",
+    "img": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH45/SWSH45_EN_SV033.png"
+  },
+  {
+    "name": "Frosmoth",
+    "set": "SV034",
+    "rarity": "Rare Ultra",
+    "expansion": "Shining Fates: Shiny Vault",
+    "type": "water",
+    "img": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH45/SWSH45_EN_SV034.png"
+  },
+  {
+    "name": "Eiscue",
+    "set": "SV035",
+    "rarity": "Rare Ultra",
+    "expansion": "Shining Fates: Shiny Vault",
+    "type": "water",
+    "img": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH45/SWSH45_EN_SV035.png"
+  },
+  {
+    "name": "Dracovish",
+    "set": "SV036",
+    "rarity": "Rare Ultra",
+    "expansion": "Shining Fates: Shiny Vault",
+    "type": "water",
+    "img": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH45/SWSH45_EN_SV036.png"
+  },
+  {
+    "name": "Arctovish",
+    "set": "SV037",
+    "rarity": "Rare Ultra",
+    "expansion": "Shining Fates: Shiny Vault",
+    "type": "water",
+    "img": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH45/SWSH45_EN_SV037.png"
+  },
+  {
+    "name": "Rotom",
+    "set": "SV038",
+    "rarity": "Rare Ultra",
+    "expansion": "Shining Fates: Shiny Vault",
+    "type": "lightning",
+    "img": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH45/SWSH45_EN_SV038.png"
+  },
+  {
+    "name": "Yamper",
+    "set": "SV039",
+    "rarity": "Rare Ultra",
+    "expansion": "Shining Fates: Shiny Vault",
+    "type": "lightning",
+    "img": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH45/SWSH45_EN_SV039.png"
+  },
+  {
+    "name": "Boltund",
+    "set": "SV040",
+    "rarity": "Rare Ultra",
+    "expansion": "Shining Fates: Shiny Vault",
+    "type": "lightning",
+    "img": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH45/SWSH45_EN_SV040.png"
+  },
+  {
+    "name": "Toxel",
+    "set": "SV041",
+    "rarity": "Rare Ultra",
+    "expansion": "Shining Fates: Shiny Vault",
+    "type": "lightning",
+    "img": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH45/SWSH45_EN_SV041.png"
+  },
+  {
+    "name": "Toxtricity",
+    "set": "SV042",
+    "rarity": "Rare Ultra",
+    "expansion": "Shining Fates: Shiny Vault",
+    "type": "lightning",
+    "img": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH45/SWSH45_EN_SV042.png"
+  },
+  {
+    "name": "Pincurchin",
+    "set": "SV043",
+    "rarity": "Rare Ultra",
+    "expansion": "Shining Fates: Shiny Vault",
+    "type": "lightning",
+    "img": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH45/SWSH45_EN_SV043.png"
+  },
+  {
+    "name": "Morpeko",
+    "set": "SV044",
+    "rarity": "Rare Ultra",
+    "expansion": "Shining Fates: Shiny Vault",
+    "type": "lightning",
+    "img": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH45/SWSH45_EN_SV044.png"
+  },
+  {
+    "name": "Dracozolt",
+    "set": "SV045",
+    "rarity": "Rare Ultra",
+    "expansion": "Shining Fates: Shiny Vault",
+    "type": "lightning",
+    "img": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH45/SWSH45_EN_SV045.png"
+  },
+  {
+    "name": "Arctozolt",
+    "set": "SV046",
+    "rarity": "Rare Ultra",
+    "expansion": "Shining Fates: Shiny Vault",
+    "type": "lightning",
+    "img": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH45/SWSH45_EN_SV046.png"
+  },
+  {
+    "name": "Galarian Ponyta",
+    "set": "SV047",
+    "rarity": "Rare Ultra",
+    "expansion": "Shining Fates: Shiny Vault",
+    "type": "psychic",
+    "img": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH45/SWSH45_EN_SV047.png"
+  },
+  {
+    "name": "Galarian Rapidash",
+    "set": "SV048",
+    "rarity": "Rare Ultra",
+    "expansion": "Shining Fates: Shiny Vault",
+    "type": "psychic",
+    "img": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH45/SWSH45_EN_SV048.png"
+  },
+  {
+    "name": "Galarian Corsola",
+    "set": "SV049",
+    "rarity": "Rare Ultra",
+    "expansion": "Shining Fates: Shiny Vault",
+    "type": "psychic",
+    "img": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH45/SWSH45_EN_SV049.png"
+  },
+  {
+    "name": "Galarian Cursola",
+    "set": "SV050",
+    "rarity": "Rare Ultra",
+    "expansion": "Shining Fates: Shiny Vault",
+    "type": "psychic",
+    "img": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH45/SWSH45_EN_SV050.png"
+  },
+  {
+    "name": "Dedenne",
+    "set": "SV051",
+    "rarity": "Rare Ultra",
+    "expansion": "Shining Fates: Shiny Vault",
+    "type": "psychic",
+    "img": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH45/SWSH45_EN_SV051.png"
+  },
+  {
+    "name": "Sinistea",
+    "set": "SV052",
+    "rarity": "Rare Ultra",
+    "expansion": "Shining Fates: Shiny Vault",
+    "type": "psychic",
+    "img": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH45/SWSH45_EN_SV052.png"
+  },
+  {
+    "name": "Polteageist",
+    "set": "SV053",
+    "rarity": "Rare Ultra",
+    "expansion": "Shining Fates: Shiny Vault",
+    "type": "psychic",
+    "img": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH45/SWSH45_EN_SV053.png"
+  },
+  {
+    "name": "Hatenna",
+    "set": "SV054",
+    "rarity": "Rare Ultra",
+    "expansion": "Shining Fates: Shiny Vault",
+    "type": "psychic",
+    "img": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH45/SWSH45_EN_SV054.png"
+  },
+  {
+    "name": "Hattrem",
+    "set": "SV055",
+    "rarity": "Rare Ultra",
+    "expansion": "Shining Fates: Shiny Vault",
+    "type": "psychic",
+    "img": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH45/SWSH45_EN_SV055.png"
+  },
+  {
+    "name": "Hatterene",
+    "set": "SV056",
+    "rarity": "Rare Ultra",
+    "expansion": "Shining Fates: Shiny Vault",
+    "type": "psychic",
+    "img": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH45/SWSH45_EN_SV056.png"
+  },
+  {
+    "name": "Milcery",
+    "set": "SV057",
+    "rarity": "Rare Ultra",
+    "expansion": "Shining Fates: Shiny Vault",
+    "type": "psychic",
+    "img": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH45/SWSH45_EN_SV057.png"
+  },
+  {
+    "name": "Alcremie",
+    "set": "SV058",
+    "rarity": "Rare Ultra",
+    "expansion": "Shining Fates: Shiny Vault",
+    "type": "psychic",
+    "img": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH45/SWSH45_EN_SV058.png"
+  },
+  {
+    "name": "Indeedee",
+    "set": "SV059",
+    "rarity": "Rare Ultra",
+    "expansion": "Shining Fates: Shiny Vault",
+    "type": "psychic",
+    "img": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH45/SWSH45_EN_SV059.png"
+  },
+  {
+    "name": "Dreepy",
+    "set": "SV060",
+    "rarity": "Rare Ultra",
+    "expansion": "Shining Fates: Shiny Vault",
+    "type": "psychic",
+    "img": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH45/SWSH45_EN_SV060.png"
+  },
+  {
+    "name": "Drakloak",
+    "set": "SV061",
+    "rarity": "Rare Ultra",
+    "expansion": "Shining Fates: Shiny Vault",
+    "type": "psychic",
+    "img": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH45/SWSH45_EN_SV061.png"
+  },
+  {
+    "name": "Dragapult",
+    "set": "SV062",
+    "rarity": "Rare Ultra",
+    "expansion": "Shining Fates: Shiny Vault",
+    "type": "psychic",
+    "img": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH45/SWSH45_EN_SV062.png"
+  },
+  {
+    "name": "Galarian Farfetch\u2019d",
+    "set": "SV063",
+    "rarity": "Rare Ultra",
+    "expansion": "Shining Fates: Shiny Vault",
+    "type": "fighting",
+    "img": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH45/SWSH45_EN_SV063.png"
+  },
+  {
+    "name": "Galarian Sirfetch\u2019d",
+    "set": "SV064",
+    "rarity": "Rare Ultra",
+    "expansion": "Shining Fates: Shiny Vault",
+    "type": "fighting",
+    "img": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH45/SWSH45_EN_SV064.png"
+  },
+  {
+    "name": "Galarian Yamask",
+    "set": "SV065",
+    "rarity": "Rare Ultra",
+    "expansion": "Shining Fates: Shiny Vault",
+    "type": "fighting",
+    "img": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH45/SWSH45_EN_SV065.png"
+  },
+  {
+    "name": "Galarian Runerigus",
+    "set": "SV066",
+    "rarity": "Rare Ultra",
+    "expansion": "Shining Fates: Shiny Vault",
+    "type": "fighting",
+    "img": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH45/SWSH45_EN_SV066.png"
+  },
+  {
+    "name": "Rolycoly",
+    "set": "SV067",
+    "rarity": "Rare Ultra",
+    "expansion": "Shining Fates: Shiny Vault",
+    "type": "fighting",
+    "img": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH45/SWSH45_EN_SV067.png"
+  },
+  {
+    "name": "Carkol",
+    "set": "SV068",
+    "rarity": "Rare Ultra",
+    "expansion": "Shining Fates: Shiny Vault",
+    "type": "fighting",
+    "img": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH45/SWSH45_EN_SV068.png"
+  },
+  {
+    "name": "Coalossal",
+    "set": "SV069",
+    "rarity": "Rare Ultra",
+    "expansion": "Shining Fates: Shiny Vault",
+    "type": "fighting",
+    "img": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH45/SWSH45_EN_SV069.png"
+  },
+  {
+    "name": "Silicobra",
+    "set": "SV070",
+    "rarity": "Rare Ultra",
+    "expansion": "Shining Fates: Shiny Vault",
+    "type": "fighting",
+    "img": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH45/SWSH45_EN_SV070.png"
+  },
+  {
+    "name": "Sandaconda",
+    "set": "SV071",
+    "rarity": "Rare Ultra",
+    "expansion": "Shining Fates: Shiny Vault",
+    "type": "fighting",
+    "img": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH45/SWSH45_EN_SV071.png"
+  },
+  {
+    "name": "Clobbopus",
+    "set": "SV072",
+    "rarity": "Rare Ultra",
+    "expansion": "Shining Fates: Shiny Vault",
+    "type": "fighting",
+    "img": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH45/SWSH45_EN_SV072.png"
+  },
+  {
+    "name": "Grapploct",
+    "set": "SV073",
+    "rarity": "Rare Ultra",
+    "expansion": "Shining Fates: Shiny Vault",
+    "type": "fighting",
+    "img": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH45/SWSH45_EN_SV073.png"
+  },
+  {
+    "name": "Falinks",
+    "set": "SV074",
+    "rarity": "Rare Ultra",
+    "expansion": "Shining Fates: Shiny Vault",
+    "type": "fighting",
+    "img": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH45/SWSH45_EN_SV074.png"
+  },
+  {
+    "name": "Stonjourner",
+    "set": "SV075",
+    "rarity": "Rare Ultra",
+    "expansion": "Shining Fates: Shiny Vault",
+    "type": "fighting",
+    "img": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH45/SWSH45_EN_SV075.png"
+  },
+  {
+    "name": "Koffing",
+    "set": "SV076",
+    "rarity": "Rare Ultra",
+    "expansion": "Shining Fates: Shiny Vault",
+    "type": "darkness",
+    "img": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH45/SWSH45_EN_SV076.png"
+  },
+  {
+    "name": "Galarian Weezing",
+    "set": "SV077",
+    "rarity": "Rare Ultra",
+    "expansion": "Shining Fates: Shiny Vault",
+    "type": "darkness",
+    "img": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH45/SWSH45_EN_SV077.png"
+  },
+  {
+    "name": "Galarian Zigzagoon",
+    "set": "SV078",
+    "rarity": "Rare Ultra",
+    "expansion": "Shining Fates: Shiny Vault",
+    "type": "darkness",
+    "img": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH45/SWSH45_EN_SV078.png"
+  },
+  {
+    "name": "Galarian Linoone",
+    "set": "SV079",
+    "rarity": "Rare Ultra",
+    "expansion": "Shining Fates: Shiny Vault",
+    "type": "darkness",
+    "img": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH45/SWSH45_EN_SV079.png"
+  },
+  {
+    "name": "Galarian Obstagoon",
+    "set": "SV080",
+    "rarity": "Rare Ultra",
+    "expansion": "Shining Fates: Shiny Vault",
+    "type": "darkness",
+    "img": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH45/SWSH45_EN_SV080.png"
+  },
+  {
+    "name": "Nickit",
+    "set": "SV081",
+    "rarity": "Rare Ultra",
+    "expansion": "Shining Fates: Shiny Vault",
+    "type": "darkness",
+    "img": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH45/SWSH45_EN_SV081.png"
+  },
+  {
+    "name": "Thievul",
+    "set": "SV082",
+    "rarity": "Rare Ultra",
+    "expansion": "Shining Fates: Shiny Vault",
+    "type": "darkness",
+    "img": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH45/SWSH45_EN_SV082.png"
+  },
+  {
+    "name": "Impidimp",
+    "set": "SV083",
+    "rarity": "Rare Ultra",
+    "expansion": "Shining Fates: Shiny Vault",
+    "type": "darkness",
+    "img": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH45/SWSH45_EN_SV083.png"
+  },
+  {
+    "name": "Morgrem",
+    "set": "SV084",
+    "rarity": "Rare Ultra",
+    "expansion": "Shining Fates: Shiny Vault",
+    "type": "darkness",
+    "img": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH45/SWSH45_EN_SV084.png"
+  },
+  {
+    "name": "Grimmsnarl",
+    "set": "SV085",
+    "rarity": "Rare Ultra",
+    "expansion": "Shining Fates: Shiny Vault",
+    "type": "darkness",
+    "img": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH45/SWSH45_EN_SV085.png"
+  },
+  {
+    "name": "Galarian Meowth",
+    "set": "SV086",
+    "rarity": "Rare Ultra",
+    "expansion": "Shining Fates: Shiny Vault",
+    "type": "metal",
+    "img": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH45/SWSH45_EN_SV086.png"
+  },
+  {
+    "name": "Galarian Perrserker",
+    "set": "SV087",
+    "rarity": "Rare Ultra",
+    "expansion": "Shining Fates: Shiny Vault",
+    "type": "metal",
+    "img": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH45/SWSH45_EN_SV087.png"
+  },
+  {
+    "name": "Galarian Stunfisk",
+    "set": "SV088",
+    "rarity": "Rare Ultra",
+    "expansion": "Shining Fates: Shiny Vault",
+    "type": "metal",
+    "img": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH45/SWSH45_EN_SV088.png"
+  },
+  {
+    "name": "Corviknight",
+    "set": "SV089",
+    "rarity": "Rare Ultra",
+    "expansion": "Shining Fates: Shiny Vault",
+    "type": "metal",
+    "img": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH45/SWSH45_EN_SV089.png"
+  },
+  {
+    "name": "Cufant",
+    "set": "SV090",
+    "rarity": "Rare Ultra",
+    "expansion": "Shining Fates: Shiny Vault",
+    "type": "metal",
+    "img": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH45/SWSH45_EN_SV090.png"
+  },
+  {
+    "name": "Copperajah",
+    "set": "SV091",
+    "rarity": "Rare Ultra",
+    "expansion": "Shining Fates: Shiny Vault",
+    "type": "metal",
+    "img": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH45/SWSH45_EN_SV091.png"
+  },
+  {
+    "name": "Duraludon",
+    "set": "SV092",
+    "rarity": "Rare Ultra",
+    "expansion": "Shining Fates: Shiny Vault",
+    "type": "metal",
+    "img": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH45/SWSH45_EN_SV092.png"
+  },
+  {
+    "name": "Minccino",
+    "set": "SV093",
+    "rarity": "Rare Ultra",
+    "expansion": "Shining Fates: Shiny Vault",
+    "type": "colorless",
+    "img": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH45/SWSH45_EN_SV093.png"
+  },
+  {
+    "name": "Cinccino",
+    "set": "SV094",
+    "rarity": "Rare Ultra",
+    "expansion": "Shining Fates: Shiny Vault",
+    "type": "colorless",
+    "img": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH45/SWSH45_EN_SV094.png"
+  },
+  {
+    "name": "Ducklett",
+    "set": "SV095",
+    "rarity": "Rare Ultra",
+    "expansion": "Shining Fates: Shiny Vault",
+    "type": "colorless",
+    "img": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH45/SWSH45_EN_SV095.png"
+  },
+  {
+    "name": "Swanna",
+    "set": "SV096",
+    "rarity": "Rare Ultra",
+    "expansion": "Shining Fates: Shiny Vault",
+    "type": "colorless",
+    "img": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH45/SWSH45_EN_SV096.png"
+  },
+  {
+    "name": "Bunnelby",
+    "set": "SV097",
+    "rarity": "Rare Ultra",
+    "expansion": "Shining Fates: Shiny Vault",
+    "type": "colorless",
+    "img": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH45/SWSH45_EN_SV097.png"
+  },
+  {
+    "name": "Oranguru",
+    "set": "SV098",
+    "rarity": "Rare Ultra",
+    "expansion": "Shining Fates: Shiny Vault",
+    "type": "colorless",
+    "img": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH45/SWSH45_EN_SV098.png"
+  },
+  {
+    "name": "Skwovet",
+    "set": "SV099",
+    "rarity": "Rare Ultra",
+    "expansion": "Shining Fates: Shiny Vault",
+    "type": "colorless",
+    "img": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH45/SWSH45_EN_SV099.png"
+  },
+  {
+    "name": "Greedent",
+    "set": "SV100",
+    "rarity": "Rare Ultra",
+    "expansion": "Shining Fates: Shiny Vault",
+    "type": "colorless",
+    "img": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH45/SWSH45_EN_SV100.png"
+  },
+  {
+    "name": "Rookidee",
+    "set": "SV101",
+    "rarity": "Rare Ultra",
+    "expansion": "Shining Fates: Shiny Vault",
+    "type": "colorless",
+    "img": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH45/SWSH45_EN_SV101.png"
+  },
+  {
+    "name": "Corvisquire",
+    "set": "SV102",
+    "rarity": "Rare Ultra",
+    "expansion": "Shining Fates: Shiny Vault",
+    "type": "colorless",
+    "img": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH45/SWSH45_EN_SV102.png"
+  },
+  {
+    "name": "Wooloo",
+    "set": "SV103",
+    "rarity": "Rare Ultra",
+    "expansion": "Shining Fates: Shiny Vault",
+    "type": "colorless",
+    "img": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH45/SWSH45_EN_SV103.png"
+  },
+  {
+    "name": "Dubwool",
+    "set": "SV104",
+    "rarity": "Rare Ultra",
+    "expansion": "Shining Fates: Shiny Vault",
+    "type": "colorless",
+    "img": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH45/SWSH45_EN_SV104.png"
+  },
+  {
+    "name": "Rillaboom V",
+    "set": "SV105",
+    "rarity": "Rare Ultra",
+    "expansion": "Shining Fates: Shiny Vault",
+    "type": "grass",
+    "img": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH45/SWSH45_EN_SV105.png"
+  },
+  {
+    "name": "Rillaboom VMAX",
+    "set": "SV106",
+    "rarity": "Rainbow Rare",
+    "expansion": "Shining Fates: Shiny Vault",
+    "type": "grass",
+    "img": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH45/SWSH45_EN_SV106.png"
+  },
+  {
+    "name": "Charizard VMAX",
+    "set": "SV107",
+    "rarity": "Rainbow Rare",
+    "expansion": "Shining Fates: Shiny Vault",
+    "type": "fire",
+    "img": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH45/SWSH45_EN_SV107.png"
+  },
+  {
+    "name": "Centiskorch V",
+    "set": "SV108",
+    "rarity": "Rare Ultra",
+    "expansion": "Shining Fates: Shiny Vault",
+    "type": "fire",
+    "img": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH45/SWSH45_EN_SV108.png"
+  },
+  {
+    "name": "Centiskorch VMAX",
+    "set": "SV109",
+    "rarity": "Rainbow Rare",
+    "expansion": "Shining Fates: Shiny Vault",
+    "type": "fire",
+    "img": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH45/SWSH45_EN_SV109.png"
+  },
+  {
+    "name": "Lapras V",
+    "set": "SV110",
+    "rarity": "Rare Ultra",
+    "expansion": "Shining Fates: Shiny Vault",
+    "type": "water",
+    "img": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH45/SWSH45_EN_SV110.png"
+  },
+  {
+    "name": "Lapras VMAX",
+    "set": "SV111",
+    "rarity": "Rainbow Rare",
+    "expansion": "Shining Fates: Shiny Vault",
+    "type": "water",
+    "img": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH45/SWSH45_EN_SV111.png"
+  },
+  {
+    "name": "Toxtricity V",
+    "set": "SV112",
+    "rarity": "Rare Ultra",
+    "expansion": "Shining Fates: Shiny Vault",
+    "type": "lightning",
+    "img": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH45/SWSH45_EN_SV112.png"
+  },
+  {
+    "name": "Toxtricity VMAX",
+    "set": "SV113",
+    "rarity": "Rainbow Rare",
+    "expansion": "Shining Fates: Shiny Vault",
+    "type": "lightning",
+    "img": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH45/SWSH45_EN_SV113.png"
+  },
+  {
+    "name": "Indeedee V",
+    "set": "SV114",
+    "rarity": "Rare Ultra",
+    "expansion": "Shining Fates: Shiny Vault",
+    "type": "psychic",
+    "img": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH45/SWSH45_EN_SV114.png"
+  },
+  {
+    "name": "Falinks V",
+    "set": "SV115",
+    "rarity": "Rare Ultra",
+    "expansion": "Shining Fates: Shiny Vault",
+    "type": "fighting",
+    "img": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH45/SWSH45_EN_SV115.png"
+  },
+  {
+    "name": "Grimmsnarl V",
+    "set": "SV116",
+    "rarity": "Rare Ultra",
+    "expansion": "Shining Fates: Shiny Vault",
+    "type": "darkness",
+    "img": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH45/SWSH45_EN_SV116.png"
+  },
+  {
+    "name": "Grimmsnarl VMAX",
+    "set": "SV117",
+    "rarity": "Rainbow Rare",
+    "expansion": "Shining Fates: Shiny Vault",
+    "type": "darkness",
+    "img": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH45/SWSH45_EN_SV117.png"
+  },
+  {
+    "name": "Ditto V",
+    "set": "SV118",
+    "rarity": "Rare Ultra",
+    "expansion": "Shining Fates: Shiny Vault",
+    "type": "colorless",
+    "img": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH45/SWSH45_EN_SV118.png"
+  },
+  {
+    "name": "Ditto VMAX",
+    "set": "SV119",
+    "rarity": "Rainbow Rare",
+    "expansion": "Shining Fates: Shiny Vault",
+    "type": "colorless",
+    "img": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH45/SWSH45_EN_SV119.png"
+  },
+  {
+    "name": "Dubwool V",
+    "set": "SV120",
+    "rarity": "Rare Ultra",
+    "expansion": "Shining Fates: Shiny Vault",
+    "type": "colorless",
+    "img": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH45/SWSH45_EN_SV120.png"
+  },
+  {
+    "name": "Eternatus V",
+    "set": "SV121",
+    "rarity": "Rare Holo",
+    "expansion": "Shining Fates: Shiny Vault",
+    "type": "darkness",
+    "img": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH45/SWSH45_EN_SV121.png"
+  },
+  {
+    "name": "Eternatus VMAX",
+    "set": "SV122",
+    "rarity": "Rare Holo",
+    "expansion": "Shining Fates: Shiny Vault",
+    "type": "darkness",
+    "img": "https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH45/SWSH45_EN_SV122.png"
+  }
+]
