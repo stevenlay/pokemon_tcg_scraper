@@ -9,15 +9,14 @@ from models.Card import Card
 if __name__ == "__main__":
     cards = []
     for i in range(1, 123):
-        num = str(i).zfill(3)
-        url = f"{BASE_URL}/ss-series/swsh45sv/sv{num}/"
+        num = str(i)
+        url = f"{BASE_URL}/ss-series/swsh4/{num}/"
         page = r.get(url)
         soup = bs(page.content, "html.parser")
 
         # Get Card Image
         cardItem = soup.find(attrs={"class": "card-image"})
         card_img = cardItem.img["src"]
-        # print(card_img)
 
         # Get Card Details
         card_details = soup.find("div", attrs={"class": "card-description"})
@@ -42,4 +41,4 @@ if __name__ == "__main__":
     column_names = ["name", "set", "rarity", "expansion", "type", "img"]
     df = pd.DataFrame(cards, columns=column_names)
     # print(df)
-    df.to_json(path_or_buf="data/output_sv.json", orient="records")
+    df.to_json(path_or_buf="data/output_vv.json", orient="records")
